@@ -14,3 +14,5 @@ Test:
 If you want to test the model, you can run test.py. 
 
 You can download the pre-trained model and dataset through the following link: https://pan.baidu.com/s/1enewDWFACAd3uo7YRumlcw Password: o7t3.
+
+The datasets used in the paper include NH-Haze, NH-Haze2021, and NH-Haze2023.
